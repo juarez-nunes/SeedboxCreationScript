@@ -153,7 +153,7 @@ IRSSI_LOAD_PERL=n
 IGNORE_IRSSI=n
 
 # Start port. When we need a new port number, this port is incremented by one.
-CURRENT_PORT=23875
+CURRENT_PORT=50001
 DEFAULT_PORT_FTP=21
 DEFAULT_PORT_FTPES=990
 DEFAULT_UMASK=022
